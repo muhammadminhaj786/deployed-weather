@@ -28,7 +28,7 @@ const Weather = () => {
     <div className="min-h-screen bg-gradient-to-br from-blue-100 to-blue-400 py-8">
       <div className=" max-w-2xl  bg-blue-300 mx-auto shadow-lg rounded-lg">
         <h1 className="text-center font-bold text-blue-700 py-4 text-2xl">
-          Weather App
+          Weather App redeploy
         </h1>
 
         <form onSubmit={weatherFetch} className="flex gap-2 p-2 ">
